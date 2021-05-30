@@ -4,7 +4,7 @@
 from setuptools import setup
 
 package_name = 'gdal-sid'
-v = (3, 2, 6)
+v = (3, 3, 0)
 url = 'https://github.com/talos-gis/gdal-sid'
 maintainer = 'Idan Miara'
 maintainer_email = 'idan@miara.com'
